@@ -163,14 +163,16 @@ Below is the ETL Visual Pipeline:
 - Second ETL pipeline implementation
 
 
-![Screenshot (201)](https://github.com/user-attachments/assets/36bf1fc5-62db-4b8a-8db5-e103be0c1c17)
+![image](https://github.com/user-attachments/assets/f23c033a-f055-462f-a7d9-7444dbe2be2c)
+
 
 
 
 - Second job for storing the ETL pipeline result
 
 
-![Screenshot (202)](https://github.com/user-attachments/assets/32aae1a2-1e11-4614-a530-83d50258b39f)
+![image](https://github.com/user-attachments/assets/faa8731e-5c34-4ec9-bdfe-8738288c5aa5)
+
 
 
 - Result: The calculated average of Servicew Commercial Retail counts relative to the total inventory was 0.5
